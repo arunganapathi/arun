@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EB1A Profile - Your Name</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-900">
+
+  <div class="max-w-4xl mx-auto p-6 space-y-10">
+
+    <!-- Home -->
+    <section>
+      <h1 class="text-3xl font-bold">Your Name</h1>
+      <p class="mt-2 text-lg">Senior Software Engineer specializing in scalable systems impacting millions of users.</p>
+      <ul class="mt-4 list-disc ml-6">
+        <li>10M+ users impacted</li>
+        <li>Led systems generating $X revenue</li>
+        <li>Reviewer for X conferences</li>
+      </ul>
+    </section>
+
+    <!-- About -->
+    <section>
+      <h2 class="text-2xl font-semibold">About</h2>
+      <p class="mt-2">Brief strategic narrative about your expertise, niche, and impact.</p>
+    </section>
+
+    <!-- Original Contributions -->
+    <section>
+      <h2 class="text-2xl font-semibold">Original Contributions</h2>
+      <div class="mt-4 space-y-4">
+        <div class="p-4 bg-white rounded-2xl shadow">
+          <h3 class="font-bold">Project/System Name</h3>
+          <p><strong>Role:</strong> Lead Engineer</p>
+          <p><strong>Impact:</strong> Increased performance by 40%</p>
+          <p><strong>Scale:</strong> 5M+ users</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Impact Metrics -->
+    <section>
+      <h2 class="text-2xl font-semibold">Impact Metrics</h2>
+      <ul class="list-disc ml-6 mt-2">
+        <li>Reduced latency by 60%</li>
+        <li>Saved $2M annually</li>
+      </ul>
+    </section>
+
+    <!-- Critical Role -->
+    <section>
+      <h2 class="text-2xl font-semibold">Critical Role</h2>
+      <p class="mt-2">Describe leadership and ownership in key systems.</p>
+    </section>
+
+    <!-- Judging -->
+    <section>
+      <h2 class="text-2xl font-semibold">Judging / Peer Review</h2>
+      <p class="mt-2">Conference reviews, hackathon judging, etc.</p>
+    </section>
+
+    <!-- Awards -->
+    <section>
+      <h2 class="text-2xl font-semibold">Awards & Recognition</h2>
+      <p class="mt-2">List awards with explanation of selectivity.</p>
+    </section>
+
+    <!-- External Recognition -->
+    <section>
+      <h2 class="text-2xl font-semibold">External Recognition</h2>
+      <p class="mt-2">Media mentions, blogs, speaking engagements.</p>
+    </section>
+
+    <!-- Open Source -->
+    <section>
+      <h2 class="text-2xl font-semibold">Open Source</h2>
+      <p class="mt-2">GitHub projects, stars, forks, usage.</p>
+    </section>
+
+    <!-- Evidence Index -->
+    <section>
+      <h2 class="text-2xl font-semibold">Evidence Index</h2>
+      <ul class="list-disc ml-6 mt-2">
+        <li>Original Contributions → links</li>
+        <li>Critical Role → proof</li>
+        <li>Judging → emails/screenshots</li>
+      </ul>
+    </section>
+
+    <!-- Contact -->
+    <section>
+      <h2 class="text-2xl font-semibold">Contact</h2>
+      <p>Email | LinkedIn | GitHub</p>
+    </section>
+
+  </div>
+
+</body>
+</html>
